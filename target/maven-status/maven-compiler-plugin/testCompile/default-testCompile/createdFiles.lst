@@ -1,0 +1,8 @@
+com/sixt/apps/PageObjects/SignInPage.class
+com/sixt/Launcher/AppLauncher.class
+com/sixt/apps/PageObjects/ProductPage.class
+com/sixt/apps/utils/AppsUtils.class
+com/sixt/apps/PageObjects/BasketPage.class
+com/sixt/apps/Locators/AndroidLocators.class
+Tests/Checkout.class
+com/sixt/apps/PageObjects/Search.class
